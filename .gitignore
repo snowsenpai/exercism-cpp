@@ -67,3 +67,14 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Exclude Exercism files
+.exercism
+test
+out
+
+# Visual Studio
+.vs
+
+# Visual Studio Code
+.vscode
